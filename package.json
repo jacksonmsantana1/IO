@@ -1,6 +1,5 @@
 {
   "name": "io",
-  "version": "v0.0.0-semantically-released",
   "description": "IO Monad for javascript",
   "main": "dist/index.js",
   "scripts": {
@@ -24,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacksonmsantana1/IO.git"
+    "url": "https://github.com/jacksonmsantana1/IO.git"
   },
   "author": "Jackson Martorano Sant'Ana",
   "license": "ISC",
