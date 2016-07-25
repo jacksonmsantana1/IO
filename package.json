@@ -61,7 +61,7 @@
       "path": "node_modules/cz-conventional-changelog"
     },
     "ghooks": {
-      "pre-commit": "npm run test && npm run check-coverage"
+      "pre-commit": "npm run test"
     }
   },
   "homepage": "https://github.com/jacksonmsantana1/IO#readme",
