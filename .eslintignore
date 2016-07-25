@@ -1,0 +1,11 @@
+# Ignore files compiled from TypeScript and CoffeeScript
+**/*.{ts,coffee}.js
+**/*.spec.js
+
+
+# Ignore built files except build/index.js
+node_modules/
+dist/
+test/
+coverage/
+**.config.js

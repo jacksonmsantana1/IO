@@ -1,0 +1,4 @@
+{
+  "preset": "airbnb",
+  "excludeFiles": ["index.*.js, src/*.spec.js", "*.config.js", "dist/**/*.js", "coverage/**/*.js"]
+}
