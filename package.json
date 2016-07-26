@@ -1,5 +1,5 @@
 {
-  "name": "io",
+  "name": "io-monad",
   "version": "0.0.3",
   "description": "IO Monad for Javascript",
   "main": "dist/index.js",
